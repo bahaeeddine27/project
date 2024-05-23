@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/bahaeeddine27/front
+[submodule "back"]
+	path = back
+	url = https://github.com/bahaeeddine27/back
